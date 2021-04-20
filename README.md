@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikethan009
+- 👋 Hi, my name is Michael Than. 
 - 👀 I’m interested in learning how to navigate and using Github.
 - 🌱 I’m currently learning Python and getting to familar with coding. 
 - 💞️ I’m looking to collaborate on The Things Network and dive into the new Helium network. 
